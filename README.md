@@ -2,7 +2,7 @@
 
 ### Objective
 
-In this project, our objective is to understand how to use a Set data structure using the HashSet HashSet Implementation.
+In this project, our objective is to understand how to use a Set data structure using the HashSet Implementation.
 
 ### Problem
 
