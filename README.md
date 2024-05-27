@@ -17,7 +17,7 @@ Create a `setChar` to store characters using the HashSet class.
 
 ### Implementation
 
-* Create HashSet object and add elements.
+* Create HashSet object
 * Return the elements using iterator method.
 * Return the **number** of elements.
 
@@ -26,7 +26,7 @@ Create a `setChar` to store characters using the HashSet class.
 
 class setChar{  
  public static void main(String args[]){
-
+    char[] charArray = {'a', 'b', 'c', 'a', 'd', 'e', 'b', 'f'};
 
          /* Write your code here */
    }
