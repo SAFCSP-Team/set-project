@@ -13,7 +13,7 @@ In this project, our objective is to understand how to use a Set data structure 
 
 ### Problem
 
-Create a `setChar` to store characters using the HashSet class.
+Create a `setChar` class to store characters using the HashSet.
 
 ### Implementation
 
