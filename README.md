@@ -2,7 +2,7 @@
 
 ### Objective
 
-In this project, our objective is to understand how to use a Set data structure using the HashSet Implementation.
+In this project, our objective is to understand how to use a Set data structure using the HashSet class.
 
 ### Concepts
 
@@ -19,8 +19,21 @@ Create a `setChar` class to store characters using the HashSet.
 
 * Create HashSet object
 * Return the elements using iterator method.
+* Use an `Iterator` to iterate over the `charSet` and print each element.
 * Return the **number** of elements.
 
+
+the output
+```
+Elements in the set:
+a
+b
+c
+d
+e
+f
+Number of elements: 6`
+```
 
 ```java
 
