@@ -18,7 +18,6 @@ Create a `setChar` class to store characters using the HashSet.
 ### Implementation
 
 * Create HashSet object
-* Return the elements using iterator method.
 * Use an `Iterator` to iterate over the `charSet` and print each element.
 * Return the **number** of elements.
 
